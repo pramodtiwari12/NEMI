@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pramodtiwari12/NEMI/blob/main/app/release/app-release.apk">
+  <a href="https://github.com/pramodtiwari12/NEMI/releases/latest/download/NEMI.apk">
     <img src="https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android" alt="Download NEMI APK">
   </a>
 </p>
