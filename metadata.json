@@ -1,0 +1,6 @@
+{
+  "name": "NEMI",
+  "description": "Always-ready, 100% offline low-latency voice assistant for calls, flashlight, and alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
