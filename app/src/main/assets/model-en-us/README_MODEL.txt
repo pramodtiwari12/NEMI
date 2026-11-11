@@ -1,0 +1,14 @@
+Place the unpacked contents of vosk-model-small-en-us-0.15 inside this folder (app/src/main/assets/model-en-us/):
+- am/final.mdl
+- conf/mfcc.conf
+- conf/model.conf
+- graph/HCLr.fst
+- graph/Gr.fst
+- graph/phones/word_boundary.int
+- ivector/final.dubm
+- ivector/final.ie
+- ivector/final.mat
+- ivector/global_cmvn.stats
+- ivector/online_cmvn.conf
+- ivector/splice.conf
+- uuid

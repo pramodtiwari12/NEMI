@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NEMI</string>
+
+    <!-- Foreground Service Notification -->
+    <string name="notif_channel_service_name">NEMI Always-Ready Listener</string>
+    <string name="notif_channel_service_desc">Persistent offline microphone service for instant wake-word detection</string>
+    <string name="notif_channel_boot_name">NEMI Boot &amp; Recovery Alerts</string>
+    <string name="notif_channel_boot_desc">Alerts to resume NEMI after reboot or system termination</string>
+    <string name="notif_service_title">NEMI Active (100% Offline)</string>
+    <string name="notif_service_listening">Ready for wake word • Zero network usage</string>
+    <string name="notif_service_processing">Processing voice command (WakeLock held)…</string>
+    <string name="notif_action_stop">Stop Service</string>
+    <string name="notif_boot_title">NEMI Ready to Start</string>
+    <string name="notif_boot_body">Android 15+ blocks auto-starting mic services at boot. Tap to activate NEMI.</string>
+    <string name="notif_watchdog_recovery_title">NEMI Service Stopped</string>
+    <string name="notif_watchdog_recovery_body">System reclaimed background mic access. Tap to resume instant voice commands.</string>
+
+    <!-- Dashboard & Stage 1 UI -->
+    <string name="stage_badge">STAGE 1 • SERVICE &amp; WATCHDOG INFRASTRUCTURE</string>
+    <string name="offline_guarantee_badge">AIRPLANE-MODE READY • NO INTERNET PERMISSION</string>
+    <string name="master_switch_title">Always-Ready Voice Service</string>
+    <string name="master_switch_subtitle_running">Foreground service active (START_STICKY + Microphone type)</string>
+    <string name="master_switch_subtitle_stopped">Service stopped • Toggle on to start persistent listener</string>
+    <string name="permissions_section_title">Permission &amp; Survival Checklist</string>
+    <string name="permissions_section_subtitle">All permissions required for zero-latency offline Call, Torch, and Alarm execution</string>
+    <string name="btn_fix">Fix</string>
+    <string name="btn_granted">Granted</string>
+    <string name="watchdog_section_title">Watchdog &amp; WakeLock Telemetry</string>
+    <string name="oem_battery_section_title">OEM Background Survival Guide</string>
+    <string name="heartbeat_log_title">Local Heartbeat &amp; Lifecycle Log</string>
+    <string name="btn_ping_heartbeat">Emit Heartbeat</string>
+    <string name="btn_test_watchdog">Run Watchdog Check</string>
+    <string name="btn_test_wakelock">Test 3s Command WakeLock</string>
+    <string name="btn_clear_log">Clear Log</string>
+</resources>
