@@ -1,4 +1,4 @@
-<img width="1010" height="602" alt="image" src="https://github.com/user-attachments/assets/fbfefcac-a7f0-46ba-a849-c86deaf2d8f3" /># NEMI — 100% Offline On-Device Android Voice Assistant
+# NEMI — 100% Offline On-Device Android Voice Assistant
 
 <p align="center">
   <strong>Your Voice. Your Device. Your Control.</strong>
