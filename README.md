@@ -1,4 +1,4 @@
-# NEMI — 100% Offline On-Device Android Voice Assistant
+<img width="1010" height="602" alt="image" src="https://github.com/user-attachments/assets/fbfefcac-a7f0-46ba-a849-c86deaf2d8f3" /># NEMI — 100% Offline On-Device Android Voice Assistant
 
 <p align="center">
   <strong>Your Voice. Your Device. Your Control.</strong>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/releases/latest">
+  <a href="https://github.com/pramodtiwari12/NEMI/blob/main/app/release/app-release.apk">
     <img src="https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android" alt="Download NEMI APK">
   </a>
 </p>
